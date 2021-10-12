@@ -1,1 +1,1 @@
-# simple-graphql-demo
+# An Application to Demonstrate GraphQL Capabilities
